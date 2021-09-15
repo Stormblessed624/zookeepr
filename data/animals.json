@@ -118,6 +118,17 @@
         "rough"
       ],
       "id": "11"
+    },
+    {
+      "name": "Matt",
+      "species": "Dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
